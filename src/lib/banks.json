@@ -1,0 +1,158 @@
+[
+    {
+      "id": 100000000004,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000004.png",
+      "name": "Т‑Банк",
+      "href": "https://www.tinkoff.ru/mybank/payments/qr-pay/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000005,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000005.png",
+      "name": "Банк ВТБ",
+      "href": "https://online.vtb.ru/i/paymentSbp/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000008,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000008.png",
+      "name": "Альфа-Банк",
+      "href": "https://alfa-mobile.alfabank.ru/mobile-public/goto/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000007,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000007.png",
+      "name": "Райффайзенбанк",
+      "href": "https://online.raiffeisen.ru/outer/qr/qr.nspk.ru/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000001,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000001.png",
+      "name": "Газпромбанк",
+      "href": "https://sbpgpb.ru/c2bpayments/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000010,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000010.png",
+      "name": "Промсвязьбанк",
+      "href": "https://ib.psbank.ru/sbp/payment/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000013,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000013.png",
+      "name": "Совкомбанк",
+      "href": "https://halvacard.ru/lk/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000030,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000030.png",
+      "name": "ЮниКредит Банк",
+      "href": "https://enter.unicredit.ru/c2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000049,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000049.png",
+      "name": "Банк ВБРР",
+      "href": "https://online.vbrr.ru/#/external/fps/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000095,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000095.png",
+      "name": "АБ РОССИЯ",
+      "href": "https://i2.abr.ru/c2b/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000087,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000087.png",
+      "name": "Банк ПСКБ",
+      "href": "https://dbo.pscb.ru/fps/c2b//{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000052,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000052.png",
+      "name": "Банк Левобережный",
+      "href": "https://bl-online.nskbl.ru/fps/c2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000098,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000098.png",
+      "name": "КБ РостФинанс",
+      "href": "https://online.rostfinance.ru/petition/c2b_sbp/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000092,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000092.png",
+      "name": "БыстроБанк",
+      "href": "https://www.bystrobank.ru/sbp/c2b//{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000069,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000069.png",
+      "name": "СДМ‑Банк",
+      "href": "https://online.sdm.ru/fps/c2b//{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000064,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000064.png",
+      "name": "Кредит Урал Банк",
+      "href": "https://direct.creditural.ru/mobile//{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000045,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000045.png",
+      "name": "Банк ЗЕНИТ",
+      "href": "https://i.zenit.ru/sbpPay/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000236,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000236.png",
+      "name": "Банк ИПБ",
+      "href": "https://on-line.ipb.ru/sbp/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000245,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000245.png",
+      "name": "АКБ Ланта-Банк",
+      "href": "https://dbo.lanta.ru/fps/c2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000250,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000250.png",
+      "name": "Драйв Клик Банк",
+      "href": "https://online.driveclickbank.ru/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000102,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000102.png",
+      "name": "Банк Агророс",
+      "href": "https://my.agroros.ru/fps/c2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000284,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000284.png",
+      "name": "Банк Точка",
+      "href": "https://i.tochka.com/a/sbp_c2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000117,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000117.png",
+      "name": "ПроБанк",
+      "href": "https://bk.probank.pro/a567//{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000296,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000296.png",
+      "name": "Плайт",
+      "href": "https://plait.ru/lk/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000271,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000271.png",
+      "name": "НКО Мобильная карта",
+      "href": "https://wallet.1cupis.ru/qr/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    },
+    {
+      "id": 100000000015,
+      "iconUrl": "https://qr.nspk.ru/proxyapp/logo/bank100000000015.png",
+      "name": "Филиал Открытие БМ-Банк",
+      "href": "https://app.open.ru/paymentc2b/{payment}?type={type}&bank={bank}&sum={sum}&cur={cur}&crc={crc}"
+    }
+  ]
